@@ -1,0 +1,4 @@
+c:\users\maushats\documents\visual studio 2010\Projects\BBCResultParser\BBCResultParser\bin\Debug\BBCResultParser.exe
+c:\users\maushats\documents\visual studio 2010\Projects\BBCResultParser\BBCResultParser\bin\Debug\BBCResultParser.pdb
+c:\users\maushats\documents\visual studio 2010\Projects\BBCResultParser\BBCResultParser\obj\x86\Debug\BBCResultParser.exe
+c:\users\maushats\documents\visual studio 2010\Projects\BBCResultParser\BBCResultParser\obj\x86\Debug\BBCResultParser.pdb

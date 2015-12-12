@@ -1,0 +1,10 @@
+c:\users\maushats\documents\visual studio 2010\Projects\BBCParserPlusGUI\BBCParserPlusGUI\bin\Debug\BBCParserPlusGUI.exe
+c:\users\maushats\documents\visual studio 2010\Projects\BBCParserPlusGUI\BBCParserPlusGUI\bin\Debug\BBCParserPlusGUI.pdb
+c:\users\maushats\documents\visual studio 2010\Projects\BBCParserPlusGUI\BBCParserPlusGUI\obj\x86\Debug\BBCParserPlusGUI.Form1.resources
+c:\users\maushats\documents\visual studio 2010\Projects\BBCParserPlusGUI\BBCParserPlusGUI\obj\x86\Debug\BBCParserPlusGUI.Properties.Resources.resources
+c:\users\maushats\documents\visual studio 2010\Projects\BBCParserPlusGUI\BBCParserPlusGUI\obj\x86\Debug\BBCParserPlusGUI.csproj.GenerateResource.Cache
+c:\users\maushats\documents\visual studio 2010\Projects\BBCParserPlusGUI\BBCParserPlusGUI\obj\x86\Debug\BBCParserPlusGUI.exe
+c:\users\maushats\documents\visual studio 2010\Projects\BBCParserPlusGUI\BBCParserPlusGUI\obj\x86\Debug\BBCParserPlusGUI.pdb
+c:\users\maushats\documents\visual studio 2010\Projects\BBCParserPlusGUI\BBCParserPlusGUI\bin\Debug\BBCResultParser.exe
+c:\users\maushats\documents\visual studio 2010\Projects\BBCParserPlusGUI\BBCParserPlusGUI\bin\Debug\BBCResultParser.pdb
+c:\users\maushats\documents\visual studio 2010\Projects\BBCParserPlusGUI\BBCParserPlusGUI\obj\x86\Debug\BBCParserPlusGUI.csprojResolveAssemblyReference.cache

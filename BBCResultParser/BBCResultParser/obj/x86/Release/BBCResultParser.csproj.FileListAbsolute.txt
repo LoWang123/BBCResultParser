@@ -1,0 +1,9 @@
+C:\Users\maushats\documents\visual studio 2010\Projects\BBCResultParser\BBCResultParser\bin\Release\BBCResultParser.exe
+C:\Users\maushats\documents\visual studio 2010\Projects\BBCResultParser\BBCResultParser\bin\Release\BBCResultParser.pdb
+C:\Users\maushats\documents\visual studio 2010\Projects\BBCResultParser\BBCResultParser\obj\x86\Release\BBCResultParser.exe
+C:\Users\maushats\documents\visual studio 2010\Projects\BBCResultParser\BBCResultParser\obj\x86\Release\BBCResultParser.pdb
+C:\Users\Tobi\Documents\Visual Studio 2010\Projects\BBCResultParser\BBCResultParser\bin\Release\BBCResultParser.exe
+C:\Users\Tobi\Documents\Visual Studio 2010\Projects\BBCResultParser\BBCResultParser\bin\Release\BBCResultParser.pdb
+C:\Users\Tobi\Documents\Visual Studio 2010\Projects\BBCResultParser\BBCResultParser\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tobi\Documents\Visual Studio 2010\Projects\BBCResultParser\BBCResultParser\obj\x86\Release\BBCResultParser.exe
+C:\Users\Tobi\Documents\Visual Studio 2010\Projects\BBCResultParser\BBCResultParser\obj\x86\Release\BBCResultParser.pdb
